@@ -1,0 +1,143 @@
+body{
+      background-image: url(https://files.123freevectors.com/wp-content/solidbackground/very-dark-purple-free-solidcolor-background.jpg);
+      height: 300px;
+      overflow-y: hidden;
+       font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  
+}
+     
+ul{
+    list-style-type: none;
+    
+}
+ ul li a{
+    text-decoration: none;
+    color: white;
+    position: relative;
+    left: 750px;
+   
+    
+}
+li{
+     display: inline-flex;
+    gap: 50px;
+    position: relative;
+    top: 20px;
+}
+hr{
+    border-color: rgba(128, 128, 128, 0.407);
+}
+b{
+    font-size: xx-large;
+    color: blueviolet;
+}
+p{
+    color: white;
+}
+h1{
+    position: relative;
+    top: 55px;
+}
+.pp{
+    position: relative;
+    bottom: 10px;
+}
+.ear{
+    position: relative;
+    bottom: 280px;
+    height: 40px;
+    left: 230px;
+
+}
+.cir{
+    height: 700px;
+    width: 700px;
+    border-radius: 50%;
+    border: 1px solid white;
+    position: relative;
+    left: 410px;
+    top: 100px;
+}
+.img2{
+    position: relative;
+    top: 80px;
+    left: 53px;
+    height: 600px;
+}
+.r1{
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+    border: 1px solid white;
+    position: relative;
+    left: 390px;
+    bottom: 450px;
+    backdrop-filter: blur(20px);
+}
+.r2{
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+    border: 1px solid white;
+     position: relative;
+    left: 740px;
+    bottom: 760px;
+    backdrop-filter: blur(20px);
+    
+}
+.r3{
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+    border: 1px solid white;
+    position: relative;
+    bottom: 820px;
+    left: 530px;
+    backdrop-filter: blur(20px);
+}
+.r4{
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+    border: 1px solid white;
+    position: relative;
+    bottom: 900px;
+    left: 910px;
+    backdrop-filter: blur(20px);
+}
+.r5{
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+    border: 1px solid white;
+    position: relative;
+    bottom: 850px;
+    left: 1040px;
+    backdrop-filter: blur(20px);
+}
+.tree{
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+.leaf{
+    position: relative;
+    left: 35px;
+    top: 30px;
+}
+.es{
+    position: relative;
+    left: 30px;
+    top: 30px;
+}
+.se{
+    position: relative;
+    left: 25px;
+    top: 30px;
+}
+.imgg{
+    position: relative;
+    left: 25px;
+    top: 24px;
+}
